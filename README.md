@@ -1,2 +1,3 @@
-# parser
-A mail parser for generating lists of students by discipline and accounting for students' academic performance
+# Парсер      
+Парсер почты для формирования списка студентов, успеваемости и загрузки присланных работ за определенный период. 
+Указать в коде строки 182-184 почтовый сервер, пользовательские данные и сформировать список активных дисциплин. 
